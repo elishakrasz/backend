@@ -2,7 +2,7 @@
   "name": "default",
   "type": "postgres",
   "host": "localhost",
-  "port": 5432,
+  "port": 5433,
   "username": "postgres",
   "password": "Password1",
   "database": "itribe_dev",
